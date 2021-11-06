@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>dcs doc</title>
+<link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+<body>
+
+<h1>les avion de chasse supersonique</h1>
+
+
+<h4> mes avion de combat préferée</h4>
+<ul>
+<li>le f 16 falcon</li>
+<li>le f/a 18 hornet</li>
+<li>le rafale</li>
+<li>le f 15 c eagle</li>
+
+
+
+<p><a href="f18.html" title="page 1">page 1</p>
+
+<p><a href="f15 .html" title="page 2">page 2</p>
+</div>
+
+
+</body>
+</html>
